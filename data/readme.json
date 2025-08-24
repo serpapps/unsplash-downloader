@@ -2,20 +2,17 @@
   "id": 81,
   "created_at": "2025-01-23T00:00:00Z",
   "seo_title": "Unsplash Downloader - Free Content Download Tool",
-  "seo_description": "https://serp.ly/unsplash-downloader",
+  "seo_description": null,
   "product_page_url": "https://store.serp.co/product-details/product/unsplash-downloader",
   "purchase_url": "https://serp.ly/unsplash-downloader",
   "store_product_id": null,
   "name": "Unsplash Downloader",
-  "tagline": "https://serp.ly/unsplash-downloader",
-  "featured_image": "images/unsplash-downloader.jpg",
-  "featured_image_gif": "images/unsplash-downloader.gif",
+  "tagline": "Download high-resolution photos from Unsplash with collections support",
+  "featured_image": "https://raw.githubusercontent.com/serpapps/unsplash-downloader/assets/images/unsplash-downloader.jpg",
+  "featured_image_gif": "https://raw.githubusercontent.com/serpapps/unsplash-downloader/assets/images/unsplash-downloader.gif",
   "github_repo_url": "https://github.com/serpapps/unsplash-downloader",
   "github_repo_tags": [
-    "unsplash-downloader",
-    "downloader",
-    "automation",
-    "tools"
+    "unsplash-downloader"
   ],
   "github_gist_url": null,
   "features": [
@@ -55,13 +52,11 @@
     "Node.js",
     "Automation"
   ],
-  "serpco_product_page_link": "https://store.serp.co/product-details/product/unsplash-downloader",
-  "serpai_product_page_link": null,
+  "serpco_product_page_link": "https://serp.co/products/unsplash-downloader/reviews/",
+  "serpai_product_page_link": "https://serp.ai/products/unsplash-downloader/reviews/",
   "file_formats": null,
   "categories": [
-    "Video Downloaders",
-    "Content Tools",
-    "Automation"
+    "image hosting"
   ],
   "extraction_targets": null,
   "content_medium": null,
@@ -72,21 +67,18 @@
     "devinschumacher"
   ],
   "funding_links_liberapay": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_opencollective": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_custom": [
     "https://serpapps.github.io/unsplash-downloader",
     "https://devinschumacher.com/unsplash-downloader",
-    "https://serp.co/products/unsplash-downloader/reviews/"
+    "https://serp.co/products/unsplash-downloader/",
+    "https://github.com/sponsors/devinschumacher"
   ],
   "keywords": [
-    "unsplash",
-    "downloader",
-    "automation",
-    "tool",
-    "free"
+    "unsplash downloader"
   ]
 }
